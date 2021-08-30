@@ -1,5 +1,5 @@
-# PieDrawer
-Simple program that can draw different difficult patterns.<img src="ico.png" height="100" width = "100">
+# PieDrawer<img src="ico.png" height="100" width = "100">
+Simple program that can draw different difficult patterns.
 
 <img src="render1630354435.jpg" height="400" width = "400">
 
