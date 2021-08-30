@@ -1,4 +1,4 @@
-# PieDrawer<img src="ico.png" height="100" width = "100">
+# <img src="ico.png" height="30" width = "30"> PieDrawer
 Simple program that can draw different difficult patterns.
 
 <img src="render1630354435.jpg" height="400" width = "400">
