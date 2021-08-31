@@ -1,5 +1,5 @@
 # <img src="ico.png" height="30" width = "30"> PieDrawer
-Simple program that can draw different difficult patterns.
+Simple program that can draw different difficult patterns on c++ and sfml.
 
 <img src="render1630354435.jpg" height="400" width = "400">
 
